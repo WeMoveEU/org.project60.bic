@@ -19,10 +19,11 @@
  * 
  * @param 'iban'  an IBAN number
  */
+function _civicrm_api3_bic_getfromiban_spec($params) {
+  $params['iban']['api.required'] = 1;
+}
+
 function civicrm_api3_bic_getfromiban($params) {
-  if (empty($params['iban'])) {
-    return civicrm_api3_create_error("You need to provied an 'iban'.");
-  }
 
   $country = strtoupper(substr($params['iban'], 0, 2));
   $parser = CRM_Bic_Parser_Parser::getParser($country);
@@ -117,11 +118,11 @@ function civicrm_api3_bic_get($params) {
  *
  * @param 'country'   country code to update or 'all'
  */
-function civicrm_api3_bic_update($params) {
-  if (empty($params['country'])) {
-    return civicrm_api3_create_error("No country given");
-  }
+function _civicrm_api3_bic_update_spec($params) {
+  $params['country']['api.required'] = 1;
+}
 
+function civicrm_api3_bic_update($params) {
   $countries = array();
   if ($params['country']=='all') {
     $countries = CRM_Bic_Parser_Parser::getParserList();
