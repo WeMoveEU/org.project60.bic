@@ -1,306 +1,316 @@
-"Branch Name";"Swift Code"
-"ABC INTERNATIONAL BANK PARIS BRANCH – PARIS";"ABCOFRPPXXX"
-"ACCENTURE INSURANCE SERVICES – MAISONS LAFFITTE";"ACIVFRPPXXX"
-"AFFINE SA – PARIS";"AFFIFRPPXXX"
-"AGF ASSET MANAGEMENT – PARIS";"AGFMFRPPXXX"
-"AGF ASSET MANAGEMENT – PARIS";"AGFMFRPPPVS"
-"AIRBUS SAS – BLAGNAC";"AIRBFR22XXX"
-"AL KHALIJI FRANCE S.A. – PARIS";"LICOFRPPXXX"
-"ALCATEL-LUCENT – PARIS";"ATELFRPPXXX"
-"ALLIANZ BANQUE S.A. – PARIS";"AGFBFRCCXXX"
-"ALSTOM HOLDINGS – LEVALLOIS PERRET";"ALHOFRPPXXX"
-"ALSYON TECHNOLOGIES – LE VESINET";"ALSYFRPPXXX"
-"AMUNDI ASSET MANAGEMENT – PARIS";"AGRIFRPIXXX"
-"APTAR GROUP SAS – SAINT GERMAIN EN LAYE";"APTAFRPPXXX"
-"ARCELOR TREASURY SNC – SAINT DENIS";"USINFRPPXXX"
-"AREVA SA – PARIS";"AREVFRPPXXX"
-"ART ET TECHNIQUES DU PROGRES – ORLEANS";"GRSRFR22XXX"
-"ATTIJARIWAFA BANK – PARIS";"BCMAFRPPXXX"
-"AXA BANQUE SA – FONTENAY SOUS BOIS";"AXABFRPPXXX"
-"BANCA CARIGE SPA – NICE";"CRGEFR2XXXX"
-"BANCA REGIONALE EUROPEA S.P.A. – NICE";"BREUFR22XXX"
-"BANCO BILBAO VIZCAYA ARGENTARIA – PARIS";"BBVAFRPPXXX"
-"BANCO BPI, PARIS – PARIS";"BBPIFRPPXXX"
-"BANCO DE SABADELL – PARIS";"BSABFRPPXXX"
-"BANCO DO BRASIL S.A. – PARIS";"BRASFRPPXXX"
-"BANCO SANTANDER S.A. – PARIS";"BSCHFRPPXXX"
-"BANK AUDI SARADAR FRANCE – PARIS";"AUDIFRPPXXX"
-"BANK MELLI IRAN – PARIS";"MELIFRPPXXX"
-"BANK OF AMERICA, N.A. PARIS – PARIS";"BOFAFRPPXXX"
-"BANK OF CHINA, PARIS BRANCH – PARIS";"BKCHFRPPXXX"
-"BANK OF CHINA, PARIS BRANCH – PARIS";"BKCHFRPP013"
-"BANK OF INDIA – PARIS";"BKIDFRPPXXX"
-"BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE – PARIS";"BOTKFRCCXXX"
-"BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE – PARIS";"BOTKFRPXXXX"
-"BANK POLSKA KASA OPIEKI S.A., SUCCURSALE DE PARIS – PARIS";"PKOPFRPPXXX"
-"BANK SADERAT IRAN – PARIS BRANCH – PARIS";"BSIRFRPPXXX"
-"BANK SEPAH – PARIS";"SEPBFRPPXXX"
-"BANK TEJARAT – PARIS";"BTEJFRPPXXX"
-"BANQUE AIG, PARIS HEAD OFFICE – PARIS";"AIGAFRPPXXX"
-"BANQUE BCP – PARIS";"BPSMFRPPXXX"
-"BANQUE BIA – PARIS";"BIARFRPPXXX"
-"BANQUE CHAABI DU MAROC – PARIS";"BCDMFRPPXXX"
-"BANQUE CHAIX – AVIGNON";"CHAIFR2AXXX"
-"BANQUE COURTOIS S.A. – TOULOUSE";"COURFR2TXXX"
-"BANQUE DE BRETAGNE – RENNES";"BDEBFR2RXXX"
-"BANQUE DE L’EUROPE MERIDIONALE SA – PARIS";"BEMOFRPPXXX"
-"BANQUE DE REALISATIONS DE GESTION ET DE FINANCEMENT – CLICHY";"RGFIFRPPXXX"
-"BANQUE DE SAVOIE S.A. – CHAMBERY";"BSAVFR2CXXX"
-"BANQUE DELUBAC ET CIE – LE CHEYLARD";"DELUFR22XXX"
-"BANQUE D’ESCOMPTE – PARIS";"ESCBFRPPXXX"
-"BANQUE D’ESCOMPTE – PARIS";"ESCBFRPPBDF"
-"BANQUE D’ORSAY – PARIS";"BQORFRCCXXX"
-"BANQUE D’ORSAY – PARIS";"BQORFRPPXXX"
-"BANQUE DUPUY, DE PARSEVAL – SETE";"BDUPFR2SXXX"
-"BANQUE ESPIRITO SANTO ET DE LA VENETIE – PARIS";"BESVFRPPXXX"
-"BANQUE ESPIRITO SANTO ET DE LA VENETIE – PARIS";"BESVFRPPYBF"
-"BANQUE FEDERALE DES BANQUES POPULAIRES (BANQUES POPULAIRES REGIONALES) – PARIS";"CCBPFRPPINS"
-"BANQUE FRANCAISE COMMERCIALE DE L’OCEAN INDIEN – PARIS";"BFCOFRPPXXX"
-"BANQUE INTERNATIONALE DE COMMERCE-BRED – PARIS";"BICFFRPPXXX"
-"BANQUE LAYDERNIER – ANNECY";"LAYDFR2WXXX"
-"BANQUE LEHMAN BROTHERS – PARIS";"SLBSFRCCXXX"
-"BANQUE LEHMAN BROTHERS S.A., PARIS – PARIS";"SLBSFRPPXXX"
-"BANQUE MARTIN-MAUREL – MARSEILLE";"BMMMFR2AXXX"
-"BANQUE MARTIN-MAUREL – MARSEILLE";"BMMMFRCPXXX"
-"BANQUE MICHEL INCHAUSPE – BAMI – BORDEAUX";"BAMYFR22BDX"
-"BANQUE MICHEL INCHAUSPE – BAMI – SAINT JEAN PIED DE PORT";"BAMYFR22XXX"
-"BANQUE MISR – SUCCURSALE DE PARIS – PARIS";"BMISFRPPXXX"
-"BANQUE NEUFLIZE OBC – PARIS";"NSMBFRPPXXX"
-"BANQUE PALATINE (FORMERLY BANQUE SANPAOLO) – PARIS";"BSPFFRPPXXX"
-"BANQUE PELLETIER – DAX";"BPELFR2YXXX"
-"BANQUE POP CENTRE ATLANTIQUE – NIORT";"CCBPFRPPNIO"
-"BANQUE PRIVEE 1818 – PARIS";"CCBPFRPPBPS"
-"BANQUE PSA FINANCE SA – PARIS";"PSABFRPPXXX"
-"BANQUE REVILLON – PARIS";"REVIFRPPXXX"
-"BANQUE RHONE ALPES – GRENOBLE";"RALPFR2GXXX"
-"BANQUE SAFRA – PARIS";"BSAFFRPPXXX"
-"BANQUE SBA – PARIS";"SBAAFRPPXXX"
-"BANQUE TARNEAUD – LIMOGES";"TARNFR2LXXX"
-"BANQUE THEMIS (FORMERLY BANQUE DE L’ILE DE FRANCE – B.D.E.I.) – PARIS";"BDEIFRPPXXX"
-"BANQUES POPULAIRES PARTICIPATIONS – PARIS";"HLBPFRPPXXX"
-"BFT – BANQUE DE FINANCEMENT ET DE TRESORERIE SA – PARIS";"BFTRFRPPXXX"
-"BFT – BANQUE DE FINANCEMENT ET DE TRESORERIE SA – PARIS";"BFTRFRPPGES"
-"BGFI INTERNATIONAL – PARIS";"BGFIFRPPXXX"
-"BLOM BANK FRANCE – PARIS";"BLOMFRPPXXX"
-"BM SOFTWARE – NICE";"BMSOFR22XXX"
-"BOISSIERE FINANCE – RUEIL MALMAISON";"SCHNFR22XXX"
-"BONNA SABLA SA – PARIS";"BONAFRPPXXX"
-"BOURSE DIRECT SA – PARIS";"BDIRFRPPXXX"
-"BOURSORAMA – BOULOGNE BILLANCOURT";"BOUSFRPPXXX"
-"BOX AND AUTOMATION SOLUTION – PARIS";"BOXXFRPPXXX"
-"BPCE – PARIS";"BPCEFRPPXXX"
-"BRED BANQUE POPULAIRE – PARIS";"BREDFRPPXXX"
-"BRED BANQUE POPULAIRE – PARIS";"BREDFRPP637"
-"BRED BANQUE POPULAIRE – PARIS";"BREDFRPP638"
-"BRED BANQUE POPULAIRE – PARIS";"BREDFRPPFDF"
-"BRED BANQUE POPULAIRE – PARIS";"BREDFRPPKUS"
-"BRED BANQUE POPULAIRE – PARIS";"BREDFRPPTRE"
-"BRED GESTION – PARIS";"BRGEFRPPXXX"
-"BSI-IFABANQUE SA – PARIS";"IFABFRPPXXX"
-"BYBLOS BANK EUROPE S.A. (PARIS BRANCH) – PARIS";"BYBBFRPPXXX"
-"CACEIS BANK – PARIS";"ISAEFRPPXXX"
-"CACEIS BANK – PARIS";"ISAEFRPPMID"
-"CAISSES D’EPARGNE PARTICIPATIONS – PARIS";"HLCEFRPPXXX"
-"CAIXA D’ESTALVIS DE CATALUNYA – PERPIGNAN";"CESCFR2XXXX"
-"CAIXA GERAL DE DEPOSITOS – PARIS";"CGDIFRPPXXX"
-"CAP GEMINI SERVICE SAS – PARIS";"CAPGFRPPXXX"
-"CASDEN-BANQUE POPULAIRE – NOISIEL";"CCBPFRPPCAS"
-"CHOLET DUPONT SA – PARIS";"CHDUFRPPXXX"
-"CIB FINANCE – PARIS";"CIBRFRPPXXX"
-"CLF BANQUE – PARIS";"CLBQFRCCXXX"
-"CM – CIC BANQUES – PARIS";"CMCIFRPPXXX"
-"CM – CIC BANQUES – PARIS";"CMCIFRPPCOR"
-"CNCE GESTITRES – IVRY-SUR-SEINE";"SDBFFRPPXXX"
-"CNP ASSURANCES – PARIS";"CNPAFRPPXXX"
-"COFACREDIT – PARIS";"COFEFR2PXXX"
-"COFIDIS – VILLENEUVE D’ASCQ";"CFFIFR2LXXX"
-"COMMERZBANK AG – PARIS";"COBAFRPXXXX"
-"COMMERZBANK AG, PARIS BRANCH (FORMERLY DRESDNER BANK AG, PARIS BRANCH) – PARIS";"DRESFRPXXXX"
-"COMPAGNIE DE FINANCEMENT FONCIER – PARIS";"CFFOFRPPXXX"
-"COMPAGNIE DE FINANCEMENT FONCIER – PARIS";"CFFOFRPPSSS"
-"COMPAGNIE DE SAINT-GOBAIN – COURBEVOIE";"SGOBFRPPXXX"
-"COMPAGNIE FINANCIERE EDMOND DE ROTHSCHILD BANQUE, LA – PARIS";"COFIFRPPXXX"
-"COMPAGNIE FINANCIERE EDMOND DE ROTHSCHILD BANQUE, LA – PARIS";"COFIFRPPRAM"
-"CORTAL CONSORS FRANCE – RUEIL MALMAISON";"BCRTFRPPXXX"
-"COUNCIL OF EUROPE DEVELOPMENT BANK – PARIS";"CEFPFRPPXXX"
-"CP OR DEVISES – PARIS";"CPBIFRPPXXX"
-"CPI – CROISSY SUR SEINE";"CPIIFRPPXXX"
-"CPR ASSET MANAGEMENT – PARIS";"CPRMFRPPXXX"
-"CPRPSNCF – MARSEILLE";"CPRPFR22XXX"
-"CRC MARIT MUT ATLANTIQUE – SAINT HERBLAIN";"CCBPFRPP219"
-"CRC MARIT MUTUEL DU LITTORAL SUD OUEST – LA ROCHELLE";"CCBPFRPP169"
-"CRCMM DE BRETAGNE NORMANDIE – RENNES";"CCBPFRPP149"
-"CREDIT COMMERCIAL DE FRANCE – PARIS";"CCFRFRCRXXX"
-"CREDIT COMMERCIAL DU SUD-OUEST – MERIGNAC";"CCBPFRPP555"
-"CREDIT COOPERATIF – NANTERRE";"CCOPFRCPXXX"
-"CREDIT COOPERATIF – NANTERRE";"CCOPFRPPXXX"
-"CREDIT COOPERATIF – NANTERRE";"CCOPFRPPFXD"
-"CREDIT DU MAROC – SUCCURSALE DE PARIS – PARIS";"CDMAFRPXXXX"
-"CREDIT DU NORD – LILLE";"NORDFRPPXXX"
-"CREDIT FONCIER DE FRANCE – PARIS";"CFFRFRPPXXX"
-"CREDIT FONCIER DE FRANCE – PARIS";"CFFRFRPPSSS"
-"CREDIT LYONNAIS – PARIS";"CRLYFRPPXXX"
-"CREDIT MUTUEL – STRASBOURG";"CMCIFR2AXXX"
-"CREDIT MUTUEL – CIC BANQUES – PARIS";"CMCIFRPAXXX"
-"CREDIT MUTUEL ARKEA – BREST";"CMBRFR2BXXX"
-"CREDIT SUISSE (FRANCE), PARIS – PARIS";"CRESFRPPXXX"
-"CREDIT SUISSE AG, PARIS BRANCH – PARIS";"CRESFRPZXXX"
-"D.I.M.O. GESTION – LIMONEST";"DIMOFR22XXX"
-"DANONE FINANCE S.A. – PARIS";"DAFIFRPPXXX"
-"DECATHLON SA – VILLENEUVE D’ASCQ";"OXYLFR22XXX"
-"DEUTSCHE BANK AG – PARIS";"DEUTFRPPXXX"
-"DEUTSCHE BANK AG – PARIS";"DEUTFRPPSEC"
-"DEUTSCHE BANK AG – PARIS";"DEUTFRPPSSS"
-"DUBUS S.A. – LILLE";"DUBUFR2LXXX"
-"DUBUS S.A. – LILLE";"DUBUFR2LDEU"
-"DUBUS S.A. – LILLE";"DUBUFR2LTRO"
-"DUBUS SA – LILLE";"DUBUFR2NXXX"
-"EBI SA – PARIS";"ECOCFRPPXXX"
-"EFG BANQUE PRIVEE – PARIS";"EFGBFRPPXXX"
-"ELECTRO BANQUE – PARIS";"ELBAFRPPXXX"
-"ETS J SOUFFLET – NOGENT SUR SEINE";"SOUFFR22XXX"
-"EULER HERMES SFAC CREDIT – PARIS";"EHSCFR2PXXX"
-"EUROPE ARAB BANK PLC – PARIS";"ARABFRPPXXX"
-"EUROPEAN FUND ADMINISTRATION FRANCE S.A.S – PARIS";"EFALFRPPXXX"
-"EUROPEAN FUND ADMINISTRATION FRANCE S.A.S – PARIS";"EFALFRPPACC"
-"EUROPEAN FUND ADMINISTRATION FRANCE S.A.S – PARIS";"EFALFRPPEQY"
-"EUROPEENE DE GESTION PRIVEE – BORDEAUX";"EUGPFR22XXX"
-"EUROPEENE DE GESTION PRIVEE – TOULOUSE";"EUGPFR22TOL"
-"EURO-VL – LEVALLOIS PERRET";"EUVLFRPPXXX"
-"EXANE S.A. – PARIS";"EXANFRPPXXX"
-"EXANE S.A. – PARIS";"EXANFRPPSAM"
-"EXANE S.A. – PARIS";"EXANFRPPSTO"
-"F.B.F. (FORTIS BANQUE FRANCE) – PUTEAUX";"RUBBFRPPXXX"
-"FACTOBAIL – PARIS";"FACIFRPPXXX"
-"FASTNET FRANCE – PARIS";"FNETFRPPXXX"
-"FAURECIA – NANTERRE";"FAURFRPPXXX"
-"FBN BANK UK LTD – PARIS";"FBNIFRPPXXX"
-"FDI FRANCE – LA MOTTE-SERVOLEX";"FDFRFR22XXX"
-"FINANCIERE BOURBON – MARSEILLE";"FGBBFR2MXXX"
-"FINANCIERE D’UZES – PARIS";"UZESFRCPXXX"
-"FORTIS BANK SA/NV, PARIS BRANCH – PUTEAUX";"GEBAFRPPXXX"
-"FORTIS BANQUE FRANCE – PUTEAUX";"BPARFRPPXXX"
-"FRANCE TELECOM SA – PARIS";"FTELFRPPXXX"
-"FRANSABANK FRANCE S.A. – PARIS";"FRAFFRPPXXX"
-"GAZ DE FRANCE – PARIS";"GDFGFRPPXXX"
-"GDF SUEZ – PARIS";"GSZGFRPPXXX"
-"GE CORPORATE FINANCE BANK – PARIS";"CRFAFRPPXXX"
-"GE FACTOFRANCE – PARIS";"FACFFRPPXXX"
-"GE MONEY BANK SCA – PARIS";"MOEYFRPPXXX"
-"GE MONEY BANK SCA – PARIS";"MOEYFRPPMON"
-"GIE AXA FRANCE – PARIS";"AXAFFRPPXXX"
-"GIRAUD INTERNATIONAL – VITRY SUR SEINE";"JIROFRPPXXX"
-"GROUPAMA ASSET MANAGEMENT – PARIS";"GPAMFRPPXXX"
-"GROUPAMA BANQUE – MONTREUIL";"GPBAFRPPXXX"
-"HABIB BANK LIMITED – PARIS";"HABBFRPPXXX"
-"HSBC PRIVATE BANK FRANCE – PARIS";"BLICFRPXXXX"
-"IKB DEUTSCHE INDUSTRIEBANK A.G. SUCCURSALE DE PARIS – PARIS";"IKBDFRPPXXX"
-"IMERYS SA – PARIS";"IMERFRPPXXX"
-"ING BELGIUM S.A., SUCCURSALE EN FRANCE – PARIS";"INGBFRPPXXX"
-"INTER PARFUMS S.A – PARIS";"IPARFRPPXXX"
-"INTESA SANPAOLO SPA – PARIS";"BCITFRPPXXX"
-"INVESCO GESTION – PARIS";"INVZFRPPXXX"
-"INVESCO GESTION – PARIS";"INVZFRPPMDO"
-"IPSEN – PARIS";"IPSNFRPPXXX"
-"ISBANK GMBH – PARIS";"ISBKFRPPXXX"
-"IXIS ASSET MANAGEMENT – PARIS";"IXIAFRPPXXX"
-"JASON INFORMATIQUE – SAINT PAPOUL";"JASOFR2PXXX"
-"KBC BANK NV PARIS – PARIS";"KREDFRPPXXX"
-"KBC BANK NV PARIS – PARIS";"KREDFRPP416"
-"KBL RICHELIEU BANQUE PRIVEE – PARIS";"KBLXFRPPXXX"
-"KEPLER CAPITAL MARKETS – PARIS";"JBBRFRPPXXX"
-"KOREA EXCHANGE BANK – PARIS";"KOEXFRPPXXX"
-"LA COMPAGNIE FINANCIERE ED. DE ROTHSCHILD BANQUE – PARIS";"COFIFRCPXXX"
-"LABCO GESTION GIE – PARIS";"LAGEFRPPXXX"
-"LAFARGE SA – PARIS";"LAFAFRPPXXX"
-"LAMINES MARCHANDS EUROPEENS – TRITH SAINT LEGER";"LMEFFR22XXX"
-"LAZARD FRERES BANQUE – PARIS";"LAZPFRCCXXX"
-"LAZARD FRERES BANQUE – PARIS";"LAZPFRPPXXX"
-"LAZARD FRERES GESTION – PARIS";"LAFGFRPPXXX"
-"LEHMAN BROTHERS INTERNATIONAL (EUROPE) PARIS BRANCH – PARIS";"SLIIFRCCXXX"
-"LLOYDS TSB BANK PLC, PARIS – PARIS";"LOYDFRPPXXX"
-"LOMBARD ODIER DARIER HENTSCH AND CIE (FRANCE) SA – PARIS";"LOCYFRPPXXX"
-"LOMBARD ODIER DARIER HENTSCH AND CIE (FRANCE) SA – PARIS";"LOCYFRPPNDP"
-"LVMH – MOET HENNESSY LOUIS VUITTON – PARIS";"LVMHFRPPXXX"
-"LYXOR ASSET MANAGEMENT – PARIS";"LAMXFRPPXXX"
-"LYXOR INTERNATIONAL ASSET MANAGEMENT – PARIS";"LIMXFRPPXXX"
-"MEDICAPITAL BANK PLC, SUCCURSALE EN FRANCE – PARIS";"BMCEFRPPXXX"
-"MEGA INTERNATIONAL COMMERCIAL BANK CO. LTD. – PARIS";"ICBCFRPPXXX"
-"MERCEDES-BENZ FINANCIAL SERVICES – BAILLY";"DFSDFR22XXX"
-"METROPOLE GESTION – PARIS";"METGFRP2XXX"
-"MIZUHO CORPORATE BANK LTD. PARIS BRANCH – PARIS";"MHCBFRPPXXX"
-"MONABANQ. – WASQUEHAL";"MONNFR22XXX"
-"MONTE PASCHI BANQUE S.A. – CANNES";"MONTFRPPCAN"
-"MONTE PASCHI BANQUE S.A. – PARIS";"MONTFRPPXXX"
-"MTS FRANCE SAS – PARIS";"FMTSFRPPXXX"
-"MULTI ACCES BANQUE – PARIS";"CCBPFRPPMAB"
-"NATIONAL BANK OF ABU DHABI – PARIS";"NBADFRPPXXX"
-"NATIONAL BANK OF KUWAIT (INTERNATIONAL) PLC, PARIS BRANCH – PARIS";"NBOKFRPPXXX"
-"NATIONAL BANK OF PAKISTAN – PARIS";"NBPAFRPPXXX"
-"ODDO ET CIE – PARIS";"ODDOFRPAXXX"
-"ODDO ET CIE – PARIS";"ODDOFRPPXXX"
-"ODDO ET CIE – PARIS";"ODDOFRPPBKO"
-"ODDO ET CIE – PARIS";"ODDOFRPPFEC"
-"ODDO ET CIE – PARIS";"ODDOFRPPOAM"
-"ODDO ET CIE – PARIS";"ODDOFRPPOCO"
-"ODDO ET CIE – PARIS";"ODDOFRPPOOP"
-"ODDO ET CIE ENTREPRISE D’INVESTISSEMENT – PARIS";"ODDOFRCPXXX"
-"ORBEO – PARIS";"ORBEFRPPXXX"
-"OSEO FINANCEMENT – MAISONS ALFORT";"CPMEFRPPXXX"
-"OSEO GARANTIE – MAISONS ALFORT";"SFGFFRCPXXX"
-"PAREL – PARIS";"PAREFRPPXXX"
-"PAREL – PARIS";"PAREFRPPCCL"
-"PAREL – PARIS";"PAREFRPPCIB"
-"PAREL – PARIS";"PAREFRPPGDU"
-"PICTET AND CIE (EUROPE) S.A. SUCCURSALE DE PARIS – PARIS";"PICTFRPPXXX"
-"PPR FINANCE – PARIS";"PPRFFRPPXXX"
-"PROCAPITAL SA – PARIS";"PROCFRPPXXX"
-"PROCAPITAL SA – PARIS";"PROCFRPPPCB"
-"PUBLICIS FINANCE SERVICES SA – PARIS";"PUBGFRPPXXX"
-"QATAR NATIONAL BANK – PARIS";"QNBAFRPPXXX"
-"RABOBANK SUCCURSALE DE PARIS – PARIS";"RABOFRPPXXX"
-"RBC DEXIA INVESTOR SERVICES BANK FRANCE – PARIS";"DISFFRPPXXX"
-"RCIBANQUE S.A. – NOISY LE GRAND";"RCINFRPPXXX"
-"ROTHSCHILD AND CIE BANQUE – PARIS";"RCBPFRPPXXX"
-"ROTHSCHILD AND CIE BANQUE – PARIS";"RCBPFRPRXXX"
-"SAARLB FRANCE – METZ";"SALAFR2MXXX"
-"SAFRAN – PARIS";"SFRAFRPPXXX"
-"SG ASSET MANAGEMENT – PARIS";"SGAMFRPPXXX"
-"SG ASSET MANAGEMENT – PARIS";"SGAMFRPPADO"
-"SG ASSET MANAGEMENT – PARIS";"SGAMFRPPALT"
-"SG ASSET MANAGEMENT – PARIS";"SGAMFRPPNEG"
-"SGAM BANQUE (FORMERLY BAREP BANQUE) – COURBEVOIE";"RPLAFRPPXXX"
-"SINOPIA ASSET MANAGEMENT – PARIS";"SAMFFRPPXXX"
-"SKANDINAVISKA ENSKILDA BANKEN, PARIS BRANCH – PARIS";"ESSEFRPXXXX"
-"SOCIETE CENTRALE DE CREDIT MARITIME MUTUEL – PARIS";"CCBPFRPPMRT"
-"SOCIETE DES PAIEMENTS PASS SA – EVRY";"SOAPFR22XXX"
-"SOCIETE GENERALE – PARIS";"SOGEFRPPXXX"
-"SOCRAM BANQUE – NIORT";"SORMFR2NXXX"
-"SOFAX BANQUE – COURBEVOIE";"SFAXFRPPXXX"
-"SOFIPROTEOL – PARIS";"SOFRFRPPXXX"
-"STATE BANK OF INDIA, PARIS BRANCH – PARIS";"SBINFRPPXXX"
-"SUEZ SA – PARIS";"SUFIFRPPXXX"
-"SUMITOMO MITSUI BANKING CORPORATION EUROPE LIMITED – PARIS";"SMBCFRPPXXX"
-"SUMITOMO MITSUI BANKING CORPORATION EUROPE LIMITED – PARIS";"SMBCFRPPGEB"
-"SVENSKA HANDELSBANKEN AB – PARIS";"HANDFRPPXXX"
-"THALES SA – NEUILLY SUR SEINE";"TCSFFRPPXXX"
-"THE ROYAL BANK OF SCOTLAND N.V. (FRANCE) – PARIS";"ABNAFRPPXXX"
-"THE ROYAL BANK OF SCOTLAND PLC PARIS BRANCH – PARIS";"RBOSFRPPXXX"
-"TOTAL CAPITAL – PARIS";"TOCAFRPPXXX"
-"TOTAL TREASURY – PARIS";"TTREFRPPXXX"
-"UBS (FRANCE) S.A. – PARIS";"UBSWFRPPXXX"
-"UNICREDIT BANK AG (HYPOVEREINSBANK) PARIS – PARIS";"HYVEFRPPXXX"
-"UNICREDITO ITALIANO SPA – SUCCURSALE DE PARIS – PARIS";"UNCRFRPPXXX"
-"UNION DE BANQUES ARABES ET FRANCAISES – NEUILLY SUR SEINE";"UBAFFRPPXXX"
-"UNION TUNISIENNE DE BANQUES – MARSEILLE";"UTUBFRPPMAR"
-"UNION TUNISIENNE DE BANQUES – PARIS";"UTUBFRPPXXX"
-"UNION TUNISIENNE DE BANQUES – PARIS";"UTUBFRPPBEL"
-"UNION TUNISIENNE DE BANQUES – PARIS";"UTUBFRPPPYR"
-"VEOLIA ENVIRONNEMENT SA – PARIS";"VEOEFRPPXXX"
-"VINCI CONSTRUCTION FRANCE – NANTERRE";"VCFRFRPPXXX"
-"VINCI ENERGIES – MONTESSON";"VESAFR22XXX"
-"VINCI HOLDING – RUEIL MALMAISON";"VINCFRPPXXX"
-"VIVENDI – PARIS";"VIVEFRPPXXX"
-"VTB BANK (FRANCE) S.A. – PARIS";"EUROFRPPXXX"
-"WESTLB AG PARIS – PARIS";"WELAFRPPXXX"
-"YVES ROCHER – ISSY LES MOULINEAUX";"YROCFRPPXXX"
+name,value,label
+ABCOFRPP,18979,ABC international bank plc
+PARBFRPH,41329,BNP Paribas securities services
+BNPARERX,41919,BNP Paribas Réunion
+BNPAFRPL,15668,BNP Paribas home loan SFH
+BNPAFRPS,16078,BNP Paribas Public Sector SCF
+BNPAGPGX,13088,BNP Paribas Martinique
+BNPAGFGX,11729,BNP Paribas Guyane
+EUROFRPP,40238,VTB Bank (France) S.A. (formerly VTB Bank S.A)
+VFFFFRP1,12558,VFS Finance France
+VOWAFR21,15128,Volkswagen bank GmbH
+BNPAGPGX,13078,BNP Paribas Guadeloupe
+UFIFFRP1,19570,Union financière de France banque
+BNPAFRPP,30004,BNP Paribas
+UBAFFRPP,43899,Union de banques arabes et françaises - U.B.A.F.
+UTUBFRPP,43849,Tunisian foreign bank
+TRFIFR21,22910,Transolver Finance S.a.
+UNCRFRPP,13528,Unicredit SpA
+UBSWFRPP,30758,UBS (France) S.A.
+SYGMFRP1,26310,Sygma banque
+SWILFRP1,11238,SwissLife banque privée (formerly SwissLife banque)
+HANDFRPP,14568,Svenska handelsbanken AB (publ)
+BOTKFRCC,41249,The Bank of Tokyo - Mitsubishi UFJ Ltd
+ABNAFRPP,18739,The royal bank of Scotland plc
+SBINFRPP,18329,State bank of India
+SMBCFRPP,15250,Sumitomo Mitsui banking corporation Europe limited
+SBOSFRP1,11518,State street banque S.A.
+SOFRFRPP,18230,Sofiprotéol
+SFAXFRPP,19460,Sofax banque
+SMCTFR2A,30077,Société marseillaise de crédit
+SORMFR2N,12280,Socram banque
+SODIRER1,17439,Société financière pour le développement de la Réunion (S.O.F.I.D.E.R.)
+SGFOGPG1,18900,Société guadeloupéenne de financement - Soguafi
+SFPMFRP1,14378,Société financière du porte-monnaie électronique interbancaire
+SOGEGPGP,18079,Société générale de banque aux Antilles
+SOGEFRPP,30003,Société générale
+SOIEFR21,12500,Société de financement de la meunerie
+SEBXFRP1,17679,Société de banque et d'expansion - S.B.E. (2ème du nom)
+IVSTFRP1,19000,Société auxiliaire d'études et d'investissements mobiliers - Investimo
+SXFRFRP1,15868,Saxo banque (France)
+GSCFFR22,15968,Société Générale SCF
+SMFSMQM1,18890,SOMAFI-SOGUAFI (formerly Société Martiniquaise De Financement - Somafi)
+RCBPFRPP,18669,Rothschild et compagnie banque
+DISFFRPP,15298,RBC Investor services bank France SA (formerly RBC Dexia investor services bank France SA)
+RCINFRPP,11188,RCI Banque
+QNBAFRPP,17919,Qatar national bank
+SIFBFRP1,43789,Quilvest banque privée (formerly Banque Privée Quilvest)
+PICTFRPP,15068,Pictet & Cie (Europe) SA (formerly Pictet et Cie (Europe) SA)
+ODDOFRCP,45850,Oddo et cie
+NEGRFRP1,12198,Newedge group
+NBPAFRPP,14139,National bank of Pakistan
+NBOKFRPP,41639,National bank of Kuwait (International) plc
+NBADFRPP,17989,"National bank of Abu Dhabi (formerly National Bank of Abu Dhabi, Paris Branch)"
+MOFAFRP1,15658,MoneyGram France
+MONNFR21,14690,Monabanq.
+MONTFRPP,30478,Monte Paschi banque S.A.
+NATXFRPP,30007,Natixis
+CAVNFR21,16989,Mobilis banque (formerly Cavabanque)
+MRLAFRP1,15920,Merrill Lynch capital markets (France) SAS
+DFSDFR22,10550,Mercedes-Benz financial services France S.A. (formerly Daimlerchrysler services france s.a.)
+MHCBFRPP,18529,Mizuho bank ltd Paris branch (formerly Mizuho Corporate Bank Limited Paris Branch)
+ICBCFRPP,18789,"Mega international commercial bank Co, Ltd"
+EPLOAAFR,10800,Locam - Location automobiles matériels (formerly Locam - Location automobiles matériel S.A.S.)
+LCNDFRP1,12549,Locindus S.A.
+LAZPFRCC,30748,Lazard frères banque
+CONOFRP1,11230,Laser cofinoga
+KUTXFR21,12518,Kutxabank SA (formerly Caja de ahorros y monte de piedad de guipuzcoa y san sebastian - kutxa)
+PSSTFRPP,20041,La Banque Postale
+KBLXMCMC,13338,Kb luxembourg (monaco)
+KBLXFRPP,19069,KBL Richelieu banque privée
+KREDFRPP,27800,"KBC bank (formerly KBC Bank N.V., Succursale Francaise)"
+ISBKFRPP,13688,Isbank AG (formerly Isbank gmbh)
+BCITFRPP,10128,Intesa Sanpaolo SpA
+CHASFRPP,30628,"JPMorgan Chase bank, National Association"
+IGREFRP1,15518,ING real estate finance (France)
+INLFFRP1,11248,Ing lease france s.a.
+IIDFFR21,14559,ING Direct N.V.
+IFFIFR21,13678,IFN Finance S.A.
+ICBKFRPP,11833,Industrial and commercial bank of China (Europe) SA - ICBC (Europe) SA
+IBFFFR21,16030,IBM France financement
+INGBFRPP,30438,"ING Bank NV (formerly ING Belgium SA, succursale en France)"
+EHYPFRP1,14148,Hypothekenbank Frankfurt AG (formerly Deutsche hyp deutsche hypothekenbank frankfurt-hamburg ag)
+HABBFRPP,18289,Habib bank limited
+ELFAFRP1,13888,HSBC Factoring (France) (formerly Elysées Factor)
+HEEFFRP1,11720,HSBC Epargne entreprise (France)
+CCFRFRPP,30056,HSBC France
+GPBAFRPP,18370,Groupama banque (2ème du nom)
+MIDLFRCP,18059,HSBC bank plc
+GOLDFRP1,14040,Goldman Sachs Paris Inc et Cie
+LEGRFRP1,14120,GRESHAM Banque (formerly Legal & general bank (france))
+MOEYFRPP,42799,GE Money bank
+GMACFR21,17839,GMAC Banque
+FACFFRPP,13580,GE Factofrance
+CAOUFRP1,10008,GE Capital équipement finance
+CODFFRP1,11818,GE Commercial distribution finance S.A.
+CRFAFRPP,15168,GE Corporate finance bank . (formerly GE Corporate finance bank S.A.S.)
+FRAFFRPP,18689,Fransabank France S.A.
+FBNIFRPP,15798,FBN bank (UK) Ltd
+XPARFRPP,15000,Euronext paris s.a.
+EXADFRPP,17973,Exane derivatives
+ARABFRPP,17979,Europe arab bank PLC
+ELBAFRPP,42959,Electro banque
+ECOCFRPP,16048,Ebi SA
+EFGBFRPP,16198,EFG banque privée
+COFIFRCP,42529,Edmond de Rothschild (France) (formerly La Compagnie Financière Edmond de Rothschild Banque)
+CLBQFRCC,13148,Dexia CLF Banque
+CLFRFRCC,17290,Dexia crédit local
+DLFSFR21,15648,Deutsche leasing France
+LLLSFRP1,11678,De Lage Landen leasing S.A.S.
+CRMPFRP1,15208,Crédit municipal de Paris
+CRLYFRPP,30002,Crédit lyonnais (formerly Le Credit Lyonnais)
+CMCIFRCP,15589,Crédit mutuel Arkéa
+CRLGFRP1,19230,Crédit logement
+CRESFRPZ,13428,Crédit suisse AG (formerly Crédit suisse)
+CRESFRPP,18169,Crédit suisse (Luxembourg) S.A. (formerly Crédit suisse (France))
+CMCIFRCP,30066,Crédit industriel et commercial - CIC (formerly Credit Industriel et Commercial)
+DEUTFRPP,17789,Deutsche bank AG (formerly Deutsche bank ag)
+CIRNFR21,12308,Crédit immobilier de France Nord
+CRFLFR21,16640,Crédit financier lillois
+CDMAFRPX,11778,Crédit du Maroc
+CCBPFRPP,10638,Crédit commercial du Sud-Ouest
+NORDFRPP,30076,Crédit du Nord
+AGRIFRP1,16850,Crédit agricole leasing & factoring (formerly Crédit agricole leasing et factoring)
+CCOPFRCP,42559,Crédit coopératif (formerly Groupe Credit Cooperatif)
+BPCEFRPP,43199,Crédit Foncier de France
+BSUIFRPP,31489,Crédit agricole corporate and investment bank
+AGRIFRCC,30006,Crédit Agricole S.A.
+AARBFRP1,18889,Cortal Consors
+RABOFRPP,10218,Coöperatieve Rabobank U.A. (formerly Rabobank nederland - rabobank international)
+COANFRP1,15380,Conservateur Finance
+CMCIFRPA,22040,Confédération Nationale du Crédit Mutuel
+CGCPFRPL,18189,Compagnie générale de crédit aux particuliers - Crédipar (formerly Credipar)
+CCBIFRP1,17869,Compagnie de banques internationales de paris
+CFFOFRCC,30051,Compagnie de financement foncier
+COOFFRP1,18000,Cofitem-cofimur
+CFFIFR2L,14940,Cofidis
+cofefr2p,11790,Cofacrédit
+COBAFRPX,17629,Commerzbank ag
+CHDUFRPP,10918,Cholet Dupont
+SOAPFR22,19870,Carrefour banque
+CCBPFRPP,17169,Caisse régionale de crédit maritime mutuel du littoral du sud ouest (formerly Caisse régionale du crédit maritime mutuel du littoral du sud ouest)
+CGDIFRPP,12619,"Caixa geral de depositos S.A. (formerly Caixa Geral de Depositos, S.A. (Paris))"
+CMMMFR21,17179,Caisse régionale de crédit maritime mutuel de la Méditerranée
+CCBPFRPP,17149,Caisse régionale de crédit maritime mutuel de Bretagne-Normandie
+CMDMGPG1,15358,Caisse régionale de crédit maritime mutuel d'outre mer
+CCBPFRPP,17219,Caisse régionale de crédit maritime mutuel Atlantique
+AGRIFRCC,10206,Caisse régionale de crédit agricole mutuel du Nord Est (formerly CRCAM Nord Est)
+AGRIFRCC,16006,Caisse régionale de crédit agricole mutuel du Morbihan (formerly CRCAM Morbihan)
+AGRIFRCC,13506,Caisse régionale de crédit agricole mutuel du Languedoc
+AGRIFRCC,12906,Caisse régionale de crédit agricole mutuel du Finistère (formerly CRCAM Finistere)
+AGRIFRCC,19506,Caisse régionale de crédit agricole mutuel du Centre Ouest (formerly CRCAM du Centre-Ouest)
+AGRIFRCC,18106,Caisse régionale de crédit agricole mutuel des Savoie - Crédit agricole des Savoie (formerly Caisse Regionale de Credit Agricole Mutuel des Savoie)
+AGRIFRCC,12206,Caisse régionale de crédit agricole mutuel des Côtes-d'Armor (formerly CRCAM Cotes d'Armor)
+AGRIFRCC,19406,Caisse régionale de crédit agricole mutuel de la Touraine et du Poitou (formerly CRCAM de la Touraine et du Poitou)
+AGRIRERX,19906,Caisse régionale de crédit agricole mutuel de la Réunion (formerly CRCAM de la Reunion)
+AGRIFRCC,12006,Caisse régionale de crédit agricole mutuel de la Corse
+AGRIGPGX,14006,Caisse régionale de crédit agricole mutuel de la Guadeloupe (formerly CRCAM de Guadeloupe)
+AGRIFRCC,16606,Caisse régionale de crédit agricole mutuel de Normandie
+AGRIMQMX,19806,Caisse régionale de crédit agricole mutuel de la Martinique et de la Guyane (formerly Caisse Régionale de Crédit Agricole Mutuel de la Martinique)
+AGRIFRCC,17906,Caisse régionale de crédit agricole mutuel de l'Anjou et du Maine (formerly CRCAM Anjou et du Maine)
+AGRIFRCC,18206,Caisse régionale de crédit agricole mutuel de Paris et d'Ile-de-France (formerly CRCAM Paris et Ile-de-France)
+AGRIFRCC,16106,Caisse régionale de crédit agricole mutuel de Lorraine (formerly Caisse régionale de crédit agricole mutuel de Lorraine-Crédit agricole de Lorraine)
+AGRIFRCC,12506,Caisse régionale de crédit agricole mutuel de Franche-Comté (formerly CRCAM Franche-Comte)
+AGRIFRCC,11006,Caisse régionale de crédit agricole mutuel de Champagne-Bourgogne (formerly CRCAM de Champagne Bourgogne)
+AGRIFRCC,16806,Caisse régionale de crédit agricole mutuel de Centre France - Crédit agricole Centre France (3ème du nom)
+AGRIFRCC,13606,Caisse régionale de crédit agricole mutuel d'Ille-et-Vilaine (formerly CRCAM Ille-et-vilaine)
+AGRIFRCC,13306,Caisse régionale de crédit agricole mutuel d'Aquitaine (formerly CRCAM Aquitaine)
+AGRIFRCC,14406,Caisse régionale de crédit agricole mutuel Val de France (formerly CRCAM Val de France)
+AGRIFRCC,17106,Caisse régionale de crédit agricole mutuel Sud-Méditerranée (Ariège et Pyrénées-Orientales) (formerly Caisse Regionale de Credit Agricole Mutuel Sud-Mediterranee)
+AGRIFRCC,13906,Caisse régionale de crédit agricole mutuel Sud Rhône-Alpes (formerly CRCAM Sud Rhone Alpes)
+AGRIFRCC,13106,Caisse régionale de crédit agricole mutuel Toulouse 31 (formerly Caisse Régionale de Crédit Agricole Mutuel de Toulouse et du Midi Toulousain)
+AGRIFRCC,11306,Caisse régionale de crédit agricole mutuel d'Alpes-Provence (formerly Caisse Regionale de Credit Agricole Mutuel Alpes Provence)
+AGRIFRCC,19106,Caisse régionale de crédit agricole mutuel Provence-Côte d'Azur (Alpes de Haute-Provence-Alpes-maritimes-Var) (formerly Caisse Regionale de Credit Agricole Mutuel Provence Cote d'Azur)
+AGRIFRCC,16906,Caisse régionale de crédit agricole mutuel Pyrénées-Gascogne (formerly CRCAM Pyrenees Gascogne)
+AGRIFRCC,11206,Caisse régionale de crédit agricole mutuel Nord Midi-Pyrénées
+AGRIFRCC,16706,Caisse régionale de crédit agricole mutuel Nord de France (formerly CRCAM Nord de France)
+AGRIFRCC,14506,Caisse régionale de crédit agricole mutuel Loire - Haute-Loire (formerly Caisse Regionale de Credit Agricole Mutuel de Loire-Haute Loire)
+AGRIFRCC,12406,Caisse régionale de crédit agricole mutuel Charente-Périgord (Crédit agricole Charente-Périgord) (formerly Caisse Regionale de Credit Agricole Mutuel Charente Perigord)
+AGRIFRCC,18306,Caisse régionale de crédit agricole mutuel Normandie-Seine (formerly Caisse Regionale de Credit Agricole Mutuel de Normandie-Seine)
+AGRIFRCC,11706,Caisse régionale de crédit agricole mutuel Charente-Maritime Deux-Sèvres (formerly Caisse Regionale de Credit Agricole Mutuel de Charente-Maritime Deux Sevres)
+AGRIFRCC,14806,Caisse régionale de crédit agricole mutuel Centre Loire (formerly Caisse Regionale de Credit Agricole Mutuel de Centre Loire)
+AGRIFRCC,17806,Caisse régionale de crédit agricole mutuel Centre-Est (formerly CRCAM Centre Est)
+AGRIFRCC,18706,Caisse régionale de crédit agricole mutuel Brie Picardie
+AGRIFRCC,14706,Caisse régionale de crédit agricole mutuel Atlantique Vendée
+AGRIFRCC,17206,Caisse régionale de crédit agricole mutuel Alsace Vosges (formerly CRCAM Alsace Vosges)
+CMCIFRCP,15489,Caisse fédérale du crédit mutuel de Maine-Anjou et Basse-Normandie (formerly Caisse Federale du Credit Mutuel de Maine-Anjou Basse Normandie)
+CRMUFRCC,15519,Caisse fédérale du crédit mutuel Océan
+CMCIFRCP,10278,Caisse fédérale de crédit mutuel
+CDCGFRPP,00006,Caisse des dépôts et consignations - fonds d'épargne (formerly Fonds d'Epargne - CDC)
+CMCIFRCP,15629,Caisse fédérale du crédit mutuel Nord Europe
+CDCGFRPP,40031,Caisse des dépôts et consignations - section générale (formerly Caisse des Depots et Consignations)
+CCUTFR21,17150,Caisse de crédit municipal de Toulon
+CMROFR21,18450,Caisse de crédit municipal de Roubaix
+CCMNFR21,17620,Caisse de crédit municipal de Nîmes (formerly Caisse De Crédit Municipal De N®mes)
+CCMTFR21,18470,Caisse de crédit municipal de Nantes
+CCMRFR21,10140,Caisse de crédit municipal de Marseille
+CCMLFR21,18050,Caisse de crédit municipal de Lyon
+CMUBFR21,16170,Caisse de crédit municipal de Boulogne-sur-Mer
+CCMOFR21,16560,Caisse de crédit municipal de Bordeaux
+CMDIFR21,28570,Caisse de crédit municipal de Dijon
+CSCAFR21,18950,Caisse de crédit municipal d'Avignon
+AGRIFRPP,39996,Caisse Nationale de Crédit Agricole Mutuel - Organe Central du Réseau du Crédit Agricole Mutuel Code Créé pour les Besoins de la Commission Bancaire et de la DESM
+CCIFFRPP,18609,Caisse centrale du crédit immobilier de France-3CIF (formerly Caisse Centrale du Credit Immobilier de France (3CIF) (CIFD group))
+CMCIFRCP,45539,Caisse centrale du crédit mutuel
+DXMAFRCC,14388,Caisse Française de Financement Local (formerly Dexia municipal agency)
+CPBIFRPP,21670,CP Or devises (formerly Cpr billets)
+CNFSFR21,15448,CNH Industrial Financial Services (formerly CNH Financial services)
+CMCIFRP1,11978,CM-CIC Factor
+CMPCFRP1,50140,CMP-Banque
+SIBLFRPP,43799,CA INDOSUEZ WEALTH (FRANCE) (formerly Banque de gestion privee indosuez - bgpi)
+ISAEFRPP,18129,CACEIS Bank France (formerly CACEIS Bank)
+CCBPFRPP,11307,CASDEN Banque Populaire
+BYBBFRPP,23779,Byblos bank Europe
+CPMEFRPP,18359,Bpifrance Financement (formerly OSEO financement)
+AGRIFRP1,41539,CA Consumer Finance
+CITIFRPP,11689,CITIBANK EUROPE PUBLIC LIMITED COMPANY (formerly Citibank international plc - Citigroup)
+BOUSFRPP,40618,Boursorama
+BIFAFR21,15218,Bibby factor France
+BFOBFRP1,16218,Bforbank
+BLOMFRPP,17599,Blom bank France
+BIKCFRP1,15818,Binckbank NV
+BARCFRPP,30588,Barclays bank plc
+CCBPFRPP,14607,Banque populaire provençale et Corse
+CCBPFRPP,13507,Banque populaire du Nord
+CCBPFRPP,16607,Banque populaire du Sud
+CCBPFRPP,11907,Banque populaire du Massif central
+CCBPFRPP,16807,Banque populaire des Alpes
+CCBPFRPP,16707,Banque populaire de l'Ouest
+CCBPFRPP,17607,Banque populaire d'Alsace
+CCBPFRPP,18707,Banque populaire Val de France (2ème du nom)
+CCBPFRPP,13907,Banque populaire Loire et Lyonnais
+CCBPFRPP,10207,Banque populaire Rives de Paris
+CCBPFRPP,10807,Banque populaire Bourgogne Franche-Comté
+CCBPFRPP,17807,Banque populaire Occitane
+CCBPFRPP,15607,Banque populaire Côte d'Azur
+CCBPFRPP,13807,Banque populaire Atlantique
+CCBPFRPP,14707,Banque populaire Alsace Lorraine Champagne (formerly Banque Populaire Lorraine Champagne)
+CCBPFRPP,10907,Banque populaire Aquitaine Centre Atlantique
+BICFFRPP,40398,Banque internationale de commerce - BRED
+MOFIFR21,18879,Banque monétaire et financière - B.M.F. (formerly Banque Monetaire et Financiere)
+PAIMFRP1,11468,Banque patrimoine et immobilier (B.P.I.)
+CMCIFRPA,11808,Banque fédérative du crédit mutuel (formerly Banque Federative du Credit Mutuel (BFCM))
+FEMUFR21,18869,Banque française mutualiste - B.F.M. (formerly Banque federale mutualiste -b.f.m.)
+BFECGPGX,18729,Banque française commerciale Antilles-Guyane - B.F.C. Antilles-Guyane
+BFCORERX,18719,Banque française commerciale Océan Indien - B.F.C. Océan Indien
+FRABFRP1,41599,Banque francaise
+GRCSFRP1,14628,Banque du groupe Casino
+BATIFRP1,30258,Banque du bâtiment et des travaux publics - BTP banque
+RGFIFRPP,11210,Banque de réalisations de gestion et de financement - Régéfi
+BSAVFR2C,10548,Banque de Savoie
+BFTRFRPP,44149,Banque d'escompte
+BCGEFR21,12468,Banque cantonale de Genève (France) S.A.
+CMCIFR2A,13298,Banque commerciale du marché nord Europe-BCMNE
+BACPFRPP,17519,Banque centrale de compensation
+TRAVFRP1,42649,Banque Travelex S.A.
+BDEIFRPP,11449,Banque Thémis
+REVIFRPP,17649,Banque Revillon
+BSAOFR21,13579,Banque Saint-Olive
+BPETFRP1,13539,Banque Solfea
+SBAAFRPP,17779,Banque SBA
+TARNFR2L,10558,Banque Tarneaud
+RALPFR2G,10468,Banque Rhône-Alpes - Groupe Crédit du Nord
+POUYFR21,11989,Banque Pouyanne
+BNUGFR21,13489,Banque Nuger
+BSPFFRPP,40978,Banque Palatine
+NSMBFRPP,30788,Banque Neuflize OBC
+BMISFRPP,18569,Banque Misr
+BAMYFR22,17959,Banque Michel Inchauspé - BAMI
+BMRZFR21,13379,Banque Marze
+PSABFRPP,13168,Banque PSA finance
+BMMMFRCP,13369,Banque Martin - Maurel
+FIPIFRP1,21990,Banque Leonardo (formerly V.P.Finance S.A)
+LAYDFR2W,10228,Banque Laydernier
+FIDCFR21,13179,Banque Fiducial
+HRFRFRP1,11438,Banque Hottinguer (formerly Société financière HR)
+KOLBFR21,13259,Banque Kolb
+EDELFRP1,13149,Banque Edel SNC
+BESVFRPP,43659,Banque Espirito Santo et de la Vénétie
+BDUPFR2S,12939,Banque Dupuy de Parseval
+DELUFR22,12879,Banque Delubac et Cie (formerly Delubac et Cie)
+COURFR2T,10268,Banque Courtois - successeurs de l'ancienne maison Courtois et Cie depuis 1760
+BCHAFR21,10188,Banque Chalus
+CHAIFR2A,10178,Banque Chaix
+BCIBFRP1,24659,Banque Chabrières
+ALTRFRP1,43030,Banque Degroof Petercam France (formerly Banque Degroof & Philippe)
+BCDMFRPP,41439,Banque Chaabi du Maroc
+BIARFRPP,12179,Banque BIA (formerly Banque Intercontinentale Arabe (B.I.A.))
+BACCFR22,12869,Banque Accord
+BKIDFRPP,14879,Bank of India
+BTEJFRPP,17579,Bank Tejarat
+SEPBFRPP,17799,Bank Sepah
+BSIRFRPP,44269,Bank Saderat Iran
+PKOPFRPP,41239,Bank Polska Kasa Opieki Spolka Akcyjna
+BOFAFRPP,41219,Bank of America Merrill Lynch international limited (formerly Bank of America National Association)
+BKCHFRPP,18769,Bank of China limited
+AUDIFRPP,18089,Bank Audi France (formerly Bank Audi Saradar France)
+BSABFRPP,19229,Banco de Sabadell
+BRASFRPP,41139,Banco do Brasil AG (formerly Banco do brasil)
+BREUFR22,14818,Banca regionale Europea S.p.A.
+CRGEFR2X,12088,Banca Carige S.p.A - Cassa di risparmio di Genova e Imperia
+BSCHFRPP,44729,Banco Santander SA
+BBVAFRPP,41189,"Banco Bilbao Vizcaya Argentaria (BBVA) (formerly Banco Bilbao Vizcaya Argentaria, SA Paris Br)"
+BBPIFRPP,12589,Banco BPI
+BMCEFRPP,12249,BMCE Bank international plc
+BGFIFRPP,16158,BGFI International
+BEMOFRPP,17619,BEMO EUROPE - BANQUE PRIVEE (formerly Banque de l'europe meridionale - bemo)
+AXABFRPP,12548,Axa banque
+BPCEFRPP,16188,BPCE
+BREDFRPP,10107,BRED - Banque populaire
+AUXPFR21,13558,Auxifip
+BCMAFRPP,23890,Attijariwafa bank europe
+PROCFRPP,16298,Arkéa banking services
+AECFFR21,16820,American Express carte France
+LICOFRPP,41829,Al Khaliji France
+AGFBFRCC,12240,Allianz banque
+AARBFRP1,18989,Aareal bank AG (formerly AAREAL BANK AG)
