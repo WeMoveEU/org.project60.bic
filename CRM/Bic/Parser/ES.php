@@ -13,22 +13,22 @@
 | written permission from the original author(s).        |
 +--------------------------------------------------------*/
 
-require_once 'CRM/Bic/Parser/Parser.php';
-require_once 'dependencies/PHPExcel.php';
+require_once 'CRM/Bic/Parser/ParserCSV.php';
+//require_once 'dependencies/PHPExcel.php';
 
 /**
  * Implements CRM_Bic_Parser_Parser for the Spanish case.
  */
-class CRM_Bic_Parser_ES extends CRM_Bic_Parser_Parser {
+class CRM_Bic_Parser_ES extends CRM_Bic_Parser_CSV {
 
-  static $page_url = 'http://www.bde.es/f/webbde/IFI/servicio/regis/ficheros/es/REGBANESP_CONESTAB_A.XLS';
-  static $country_code = 'ES';
+  function __construct () {parent::__construct('ES');}
 
   /**
    * Dowloads the Spanish list of banks (from bde.es) and
    * creates/updates/deletes the corresponding BIC records.
+   * the source isn't containing bic anymore
    */
-  public function update() {
+  public function old_broken_update() {
     // First, download the file
     $file_name = sys_get_temp_dir() . '/' . CRM_Bic_Parser_ES::$country_code . '-banks.xls';
     $downloaded_file = $this->downloadFile(CRM_Bic_Parser_ES::$page_url);
