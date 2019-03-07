@@ -127,7 +127,7 @@ function bic_civicrm_navigationMenu(&$params) {
     // now, by default we want to add it to the Contributions menu -> find it
     $search_menu_id = 0;
     foreach ($params as $key => $value) {
-      if ($value['attributes']['name'] == 'Search...') {
+      if ($value['attributes']['name'] == 'Search') {
         $search_menu_id = $key;
         break;
       }
